@@ -16,7 +16,7 @@
         <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.20" />
         <!--#endif-->
         <!--#if (useSqlServer)-->
-        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.20"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.22"/>
         <!--#endif-->
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.20">
             <PrivateAssets>all</PrivateAssets>
